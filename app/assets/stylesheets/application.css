@@ -30,10 +30,41 @@ body {
 
 p {
   margin: 33px;
-
 }
 
-
 h1 {
-  ma
+  margin: 20px 0;
+}
+
+th {
+  padding-bottom: 5px
+}
+
+td {
+  padding-bottom: 7px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.index_subtitle {
+  margin: 10px 0 ;
+}
+
+.index_field,
+.index_area {
+margin-bottom: 10px;
+}
+
+.create_error {
+  color: red;
+}
+
+.delete_text {
+  color: pink;
+}
+
+.edit_field,
+.edit_area,
+.update {
+  margin-bottom: 10px;
 }
